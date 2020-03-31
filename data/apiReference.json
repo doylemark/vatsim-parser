@@ -1,0 +1,17 @@
+{
+  "callsign": 0,
+  "cid": 1,
+  "name": 2,
+  "type": 3,
+  "frequency": 4,
+  "aircraftType": 9,
+  "latitude": 5,
+  "longitude": 6,
+  "altitude": 7,
+  "groundSpeed": 8,
+  "heading": 38,
+  "logon": 37,
+  "departure": 13,
+  "arrival": 11,
+  "plannedAltitude": 12
+} 
